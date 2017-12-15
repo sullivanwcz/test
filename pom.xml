@@ -539,9 +539,7 @@
 						<version>RELEASE</version>
 					</dependency>
 				</dependencies>
-
 			</plugin>
-
 		</plugins>
 	</build>
 

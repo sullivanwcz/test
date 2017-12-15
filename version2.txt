@@ -1,0 +1,15 @@
+BuildTime  2015-12-18 08:56:47
+GitVersion   null
+MavenVersion 2.0-dev
+GitUrl https://github.com/MyCATApache/Mycat-Server.git
+22222
+1
+3333333333333333
+111122555
+5555555
+6666666666666666666666666666666
+77777
+888888
+7777777777
+
+111
